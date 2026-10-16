@@ -8,14 +8,6 @@ It is plain static files, so it runs on GitHub Pages with no server or sign-ups.
 Phones and the host screen talk through a free public message relay (broker.emqx.io,
 falling back to broker.hivemq.com), so guests can be on wifi or mobile data.
 
-## Put it on GitHub Pages
-
-1. On github.com, click **New repository**, name it e.g. `baby-shower`, make it **Public**, create it.
-2. Click **uploading an existing file**, drag in everything from this folder
-   (`index.html`, `app.js`, `baby.js`, `questions.js`, `style.css` and the `vendor` folder), then **Commit changes**.
-3. Go to **Settings → Pages**, under "Branch" pick `main` and `/ (root)`, click **Save**.
-4. After a minute your site is at `https://YOUR-USERNAME.github.io/baby-shower/`.
-
 ## On the day
 
 - On the laptop connected to the TV/projector, open `https://YOUR-USERNAME.github.io/baby-shower/#host`.
